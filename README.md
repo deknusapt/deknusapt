@@ -2,7 +2,7 @@
 user@deknusapt
 --------------------
 OS: Windows 10 Pro / Ubuntu 22.04 LTS (Dualboot)
-Uptime: Unidentified
+Uptime: ~22 Hours Daily
 Skills: Computer Networking, Graphic Design, Public Speaking
 Location: Bali, Indonesia
 Languages: Bahasa (Native), English
