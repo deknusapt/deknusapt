@@ -1,5 +1,5 @@
 ```bash
-deknusapt
+user@deknusapt
 -------------------------
 OS: Ubuntu 22.04 LTS / Windows 10 Pro (Dualboot)
 Uptime: Unidentified
