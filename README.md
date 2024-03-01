@@ -1,10 +1,10 @@
 ```bash
 user@deknusapt
--------------------------
-OS: Ubuntu 22.04 LTS / Windows 10 Pro (Dualboot)
+--------------------
+OS: Windows 10 Pro / Ubuntu 22.04 LTS (Dualboot)
 Uptime: Unidentified
-Skills: Computer Networking, Public Speaking
+Skills: Computer Networking, Graphic Design, Public Speaking
 Location: Bali, Indonesia
-Languages: -
+Languages: Bahasa (Native), English
 Learning: Web Development, RouterOS
 ```
