@@ -1,5 +1,3 @@
-<img align="left" src="images/me_200x300.webp" alt="me" height="250" /> 
-
 ```bash
 deknusapt
 -------------------------
