@@ -6,5 +6,5 @@ Uptime: ~22 Hours Daily
 Skills: Computer Networking, Graphic Design, Communication
 Location: Bali, Indonesia
 Languages: Bahasa (Native), English
-Learning: Web Development, RouterOS
+Learning: Web Development, RouterOS (MikroTik)
 ```
