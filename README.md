@@ -3,8 +3,8 @@ user@deknusapt
 --------------------
 OS: Windows 10 Pro / Ubuntu 24.04 LTS (Dualboot)
 Uptime: 24/7
-Skills: Graphic Design, Networking, Linux
+Skills: Graphic Design, Computer Network, Linux
 Location: Bali, Indonesia
 Languages: Bahasa (Native), English
-Learning: Web Development, RouterOS (MikroTik), Google Cloud
+Learning: JavaScript, Laravel, RouterOS, Google Cloud
 ```
