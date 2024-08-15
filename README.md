@@ -6,5 +6,5 @@ Uptime: 24/7
 Skills: Graphic Design, Computer Network, Linux
 Location: Bali, Indonesia
 Languages: Bahasa (Native), English
-Learning: JavaScript, Laravel, RouterOS, Google Cloud
+Learning: Web, RouterOS, Google Cloud
 ```
